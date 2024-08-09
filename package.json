@@ -1,0 +1,29 @@
+{
+    "name": "sngular-color-theme",
+    "displayName": "Sngular",
+    "description": "Dark sngular theme",
+    "version": "0.8.1",
+    "repository": "https://github.com/jroji/sngular-theme.git",
+    "publisher": "joroji",
+    "icon": "images/unnamed.webp",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sngular theme - Intense",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sngular-theme-intense.json"
+            },
+            {
+                "label": "Sngular theme - Soft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sngular-theme-soft.json"
+            }
+        ]
+    }
+}
