@@ -2,8 +2,8 @@
     "name": "sngular-color-theme",
     "displayName": "Sngular",
     "description": "Dark sngular theme",
-    "version": "1.0.0",
-    "repository": "https://github.com/jroji/sngular-theme.git",
+    "version": "1.0.1",
+    "repository": "https://github.com/jroji/sngular-vscode-theme",
     "publisher": "joroji",
     "icon": "images/unnamed.webp",
     "engines": {
